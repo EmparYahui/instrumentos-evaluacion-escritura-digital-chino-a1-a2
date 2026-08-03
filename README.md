@@ -132,31 +132,36 @@ La aplicación de los instrumentos se fundamenta en una serie de principios que 
 
 La utilización conjunta de estos instrumentos permite documentar la evolución del alumnado desde una escritura digital inicialmente dependiente de modelos y ayudas externas hasta una composición progresivamente más autónoma, estratégica y eficaz. Desde esta perspectiva, la evaluación deja de centrarse exclusivamente en el texto producido para incorporar el análisis de los procesos que hacen posible su construcción y mejora.
 
-
 ---
 
-# De la evidencia observada a la mejora del aprendizaje
+# De la observación a la mejora del aprendizaje
 
-La escritura digital constituye un proceso complejo en el que intervienen conocimientos lingüísticos, habilidades tecnológicas y estrategias de autorregulación. A diferencia de la escritura manual, la composición mediante dispositivos digitales deja un mayor número de evidencias observables relacionadas con la planificación, la recuperación de caracteres, la revisión del texto y la toma de decisiones durante la escritura.
+Los instrumentos que integran este recurso permiten recoger evidencias relacionadas tanto con el producto final como con el proceso de escritura digital desarrollado por el alumnado.
 
-Los instrumentos incluidos en este recurso han sido diseñados para recoger esas evidencias de manera sistemática y convertirlas en información útil para la evaluación formativa. El objetivo no consiste únicamente en identificar errores o asignar un nivel de desempeño, sino en comprender cómo escribe el alumnado, qué estrategias utiliza y cuáles son los aspectos que requieren una intervención docente específica.
+La combinación de las distintas rúbricas y de la plantilla de registro *in situ* facilita una evaluación basada en evidencias, permitiendo interpretar el desempeño observado y transformar esa información en procesos de *feedback* y *feedforward* orientados a la mejora del aprendizaje.
 
-Desde esta perspectiva, la evaluación basada en evidencias permite documentar la evolución del proceso de escritura y fundamentar decisiones orientadas a la mejora progresiva de la competencia escrita.
+La siguiente tabla sintetiza las principales dimensiones observables, los tipos de evidencias que pueden recogerse y la información pedagógica que aportan durante la evaluación.
 
----
+| Dimensión observada | Evidencias que puede registrar el docente | Qué permiten interpretar |
+|---|---|---|
+| **Uso de la interfaz pinyin-hanzi** | Introducción del pinyin, selección de caracteres, gestión de homófonos, utilización del predictor de caracteres. | Nivel de automatización en la recuperación léxica y dominio funcional de la escritura digital en chino. |
+| **Construcción del texto** | Organización de las ideas, cohesión, adecuación al propósito comunicativo y desarrollo del contenido. | Nivel de desarrollo de la competencia de composición escrita y capacidad para construir textos funcionales. |
+| **Revisión del texto** | Correcciones realizadas durante la escritura, reorganización de información, sustitución de caracteres o vocabulario y revisión del producto final. | Estrategias de monitorización, control de errores y mejora progresiva del texto. |
+| **Autorregulación del proceso** | Planificación, resolución de dificultades, toma de decisiones, utilización de recursos de apoyo y autonomía durante la escritura. | Desarrollo de estrategias metacognitivas y capacidad para gestionar el proceso de composición digital. |
 
-## De la observación a la interpretación
+Una vez interpretadas las evidencias, el docente puede utilizarlas para proporcionar una retroalimentación específica (*feedback*) y orientar nuevas actuaciones de aprendizaje mediante procesos de proalimentación (*feedforward*).
 
-Las evidencias recogidas durante una actividad de escritura digital adquieren valor educativo cuando se interpretan a la luz de los objetivos de aprendizaje y de los criterios establecidos en las rúbricas.
+La siguiente tabla ofrece ejemplos representativos de cómo transformar las evidencias observadas en orientaciones concretas para favorecer el progreso de la competencia de escritura digital.
 
-| Evidencia observada | Qué permite interpretar |
-|---|---|
-| Selección rápida y precisa de caracteres | Consolidación del uso de la interfaz **pinyin-hanzi** y automatización de la recuperación léxica. |
-| Corrección frecuente de caracteres durante la escritura | Existencia de procesos de monitorización y revisión en tiempo real. |
-| Modificación de frases completas antes de finalizar el texto | Desarrollo de estrategias de reorganización y mejora de la calidad comunicativa. |
-| Uso reiterado del predictor o de sugerencias automáticas | Dependencia parcial de ayudas digitales para recuperar vocabulario o seleccionar caracteres. |
-| Planificación previa del contenido | Presencia de estrategias de organización antes de iniciar la composición. |
-| Revisión final antes de entregar la tarea | Integración de procesos de evaluación y autorregulación del propio desempeño. |
+| Evidencia observada | Interpretación | *Feedback* | *Feedforward* |
+|---|---|---|---|
+| Selecciona con frecuencia caracteres homófonos incorrectos antes de corregirlos. | La recuperación fonológica es adecuada, pero la discriminación entre candidatos gráficos todavía requiere consolidación. | Recuperas correctamente la pronunciación, pero todavía necesitas identificar con mayor seguridad el carácter adecuado entre varias opciones. | Practica la selección de caracteres homófonos mediante actividades de contraste contextual y análisis de combinaciones léxicas frecuentes. |
+| Escribe con fluidez utilizando la interfaz, pero apenas revisa el texto antes de finalizarlo. | La automatización motora está consolidada, aunque las estrategias de revisión todavía son limitadas. | Escribes con agilidad, pero necesitas dedicar más tiempo a revisar el texto antes de darlo por terminado. | Incorpora una lista sistemática de revisión que incluya coherencia, selección de caracteres, vocabulario y adecuación comunicativa. |
+| Depende continuamente del predictor para recuperar vocabulario conocido. | La recuperación léxica todavía no es suficientemente autónoma. | Utilizas correctamente el predictor, aunque conviene reforzar la recuperación autónoma del vocabulario más frecuente. | Alterna actividades con y sin ayuda del predictor para fortalecer la memoria léxica y la automatización de la escritura digital. |
+| Sustituye palabras o reorganiza frases durante la revisión para mejorar el texto. | Utiliza estrategias eficaces de monitorización y mejora de la calidad textual. | Revisas activamente tus textos y realizas cambios que mejoran la claridad del mensaje. | Continúa utilizando la revisión como una fase independiente del proceso de escritura y justifica las decisiones tomadas durante la edición. |
+| Planifica previamente el contenido antes de comenzar a escribir. | Ha desarrollado estrategias iniciales de planificación del proceso de composición. | La planificación previa facilita que tus textos sean más claros y organizados. | Utiliza esquemas o mapas de ideas antes de escribir tareas de mayor complejidad para mejorar la organización global del texto. |
+| Sustituye vocabulario repetitivo por expresiones más adecuadas durante la edición. | La revisión se orienta a mejorar la calidad comunicativa y no únicamente a corregir errores. | No solo corriges errores, sino que también enriqueces el contenido de tus textos. | Incorpora revisiones específicas centradas en variedad léxica, cohesión y adecuación al destinatario. |
+| Gestiona de forma autónoma la interfaz digital y resuelve pequeñas dificultades sin ayuda externa. | La escritura digital está integrada como herramienta de comunicación y no constituye un obstáculo técnico. | Utilizas la herramienta digital con autonomía y puedes centrarte en mejorar la calidad de tus textos. | Continúa desarrollando estrategias de composición más complejas, incorporando procesos de planificación, revisión y autoevaluación cada vez más sistemáticos. |
 
 ---
 
