@@ -80,19 +80,6 @@ La evaluación propuesta adopta un enfoque basado en evidencias. En consecuencia
 
 ---
 
-## Qué puede observar el docente
-
-La escritura digital hace visibles numerosos procesos que permanecen ocultos cuando únicamente se analiza el producto final. Los instrumentos permiten documentar decisiones relacionadas con la utilización de la interfaz de escritura, la recuperación léxica, la construcción del texto y la autorregulación del proceso de composición.
-
-| Dimensión | Evidencias observables |
-|---|---|
-| **Uso de la interfaz pinyin-hanzi** | Introducción del pinyin, selección de caracteres, gestión de homófonos, utilización del predictor y recuperación léxica. |
-| **Construcción del texto** | Organización de la información, coherencia, cohesión, adecuación al propósito comunicativo y utilización de estructuras conocidas. |
-| **Revisión** | Corrección de caracteres, sustitución de vocabulario, reorganización de frases y comprobación del texto antes de finalizar la tarea. |
-| **Autorregulación** | Planificación, monitorización, resolución de dificultades, utilización estratégica de recursos digitales y toma de decisiones durante la escritura. |
-
----
-
 ## Relación entre los instrumentos
 
 Cada instrumento aporta información complementaria sobre el desempeño del estudiante y permite construir una visión integrada del proceso de escritura digital.
@@ -162,22 +149,6 @@ La siguiente tabla ofrece ejemplos representativos de cómo transformar las evid
 | Planifica previamente el contenido antes de comenzar a escribir. | Ha desarrollado estrategias iniciales de planificación del proceso de composición. | La planificación previa facilita que tus textos sean más claros y organizados. | Utiliza esquemas o mapas de ideas antes de escribir tareas de mayor complejidad para mejorar la organización global del texto. |
 | Sustituye vocabulario repetitivo por expresiones más adecuadas durante la edición. | La revisión se orienta a mejorar la calidad comunicativa y no únicamente a corregir errores. | No solo corriges errores, sino que también enriqueces el contenido de tus textos. | Incorpora revisiones específicas centradas en variedad léxica, cohesión y adecuación al destinatario. |
 | Gestiona de forma autónoma la interfaz digital y resuelve pequeñas dificultades sin ayuda externa. | La escritura digital está integrada como herramienta de comunicación y no constituye un obstáculo técnico. | Utilizas la herramienta digital con autonomía y puedes centrarte en mejorar la calidad de tus textos. | Continúa desarrollando estrategias de composición más complejas, incorporando procesos de planificación, revisión y autoevaluación cada vez más sistemáticos. |
-
----
-
-## Ejemplos de transformación de evidencias en *feedback* y *feedforward*
-
-La siguiente tabla presenta algunos ejemplos de cómo las evidencias observadas pueden convertirse en orientaciones concretas para favorecer el aprendizaje.
-
-| Evidencia observada | Interpretación | *Feedback* | *Feedforward* |
-|---|---|---|---|
-| Introduce correctamente el pinyin, pero selecciona con frecuencia caracteres homófonos incorrectos. | La conversión fonológica está consolidada, pero la selección léxica todavía requiere mayor control semántico. | Introduces correctamente el pinyin, pero necesitas comprobar que el carácter seleccionado expresa exactamente el significado que deseas comunicar. | Practica la selección de caracteres en diferentes contextos y revisa siempre las alternativas que ofrece el sistema antes de confirmar la escritura. |
-| Produce el texto con fluidez, pero apenas realiza revisiones antes de finalizar la tarea. | La producción está automatizada, aunque la revisión todavía no forma parte estable del proceso de composición. | Escribes con soltura, pero puedes mejorar notablemente la calidad de tus textos si incorporas una revisión sistemática antes de entregarlos. | Utiliza una lista de comprobación para revisar caracteres, vocabulario, organización textual y adecuación comunicativa. |
-| Depende constantemente del predictor para recuperar palabras frecuentes. | Existe una utilización funcional de las ayudas digitales, aunque todavía no se ha consolidado la recuperación autónoma del léxico. | Aprovechas correctamente las ayudas del sistema, pero conviene reforzar la recuperación de vocabulario sin depender siempre del predictor. | Alterna actividades con y sin ayudas automáticas para fortalecer la memoria léxica y la selección de caracteres. |
-| Corrige espontáneamente errores mientras escribe. | El estudiante monitoriza de forma continua su propio proceso de composición. | Revisas tus decisiones durante la escritura y corriges errores antes de finalizar el texto, lo que mejora la calidad de la producción. | Mantén esa estrategia e incorpora revisiones específicas centradas también en la organización del discurso y la adecuación al destinatario. |
-| Organiza previamente las ideas antes de comenzar a escribir. | Se observa una planificación consciente del proceso de composición. | La planificación previa facilita la coherencia y claridad de tus textos. | Continúa utilizando esquemas o borradores breves antes de abordar tareas de mayor complejidad. |
-| Sustituye palabras y reorganiza frases para mejorar el mensaje. | La revisión supera la corrección formal y se orienta hacia la mejora comunicativa del texto. | No solo corriges errores, sino que mejoras la eficacia comunicativa de tu producción escrita. | Incorpora revisiones centradas en la cohesión, la precisión léxica y la adecuación al contexto comunicativo. |
-| Utiliza con autonomía las herramientas básicas del editor de texto. | El entorno digital deja de ser un obstáculo y pasa a convertirse en un apoyo para la composición. | Utilizas con seguridad las herramientas digitales y eso te permite concentrarte en la calidad del contenido. | Explora nuevas funciones del entorno de escritura que faciliten la planificación, la revisión y la organización de tus textos. |
 
 ---
 
