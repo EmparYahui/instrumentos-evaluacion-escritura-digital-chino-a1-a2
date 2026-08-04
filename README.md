@@ -64,11 +64,7 @@ Los cuatro instrumentos constituyen un sistema integrado de evaluación basado e
 
 # Uso de los instrumentos
 
-Los instrumentos pueden utilizarse en diferentes situaciones de enseñanza, aprendizaje y evaluación de la escritura digital en chino como lengua extranjera.
-
-Aunque han sido diseñados para los niveles A1-A2 del MCER, su estructura permite adaptarse a distintos contextos educativos siempre que los descriptores se ajusten al nivel de competencia esperado y a las características de la tarea de escritura.
-
-La evaluación propuesta adopta un enfoque basado en evidencias. En consecuencia, los instrumentos no se limitan a valorar el texto producido, sino que permiten documentar el proceso de composición digital y las decisiones adoptadas por el estudiante durante la escritura.
+Los instrumentos pueden emplearse en diferentes contextos de enseñanza, aprendizaje, evaluación e investigación. Aunque han sido diseñados para los niveles A1-A2 del MCER, su estructura facilita la adaptación a otros contextos siempre que los descriptores se ajusten al nivel de competencia esperado y a las características de la tarea de escritura.
 
 ---
 
@@ -86,7 +82,7 @@ La evaluación propuesta adopta un enfoque basado en evidencias. En consecuencia
 
 ## Relación entre los instrumentos
 
-Cada instrumento aporta información complementaria sobre el desempeño del estudiante y permite construir una visión integrada del proceso de escritura digital.
+Los cuatro instrumentos ofrecen información complementaria y permiten construir una visión integrada del proceso de escritura digital.
 
 | Instrumento | Qué permite observar | Resultado esperado |
 |---|---|---|
@@ -99,7 +95,7 @@ Cada instrumento aporta información complementaria sobre el desempeño del estu
 
 ## Momentos de aplicación
 
-Los instrumentos pueden utilizarse en diferentes fases del proceso de escritura digital.
+Los instrumentos pueden aplicarse antes, durante y después de la escritura para documentar la evolución del proceso de composición.
 
 | Momento | Objetivo |
 |---|---|
@@ -111,7 +107,7 @@ Los instrumentos pueden utilizarse en diferentes fases del proceso de escritura 
 
 ## Principios de utilización
 
-La aplicación de los instrumentos se fundamenta en una serie de principios que favorecen una evaluación coherente con el enfoque basado en evidencias y con la naturaleza procesual de la escritura digital.
+La utilización de los instrumentos se fundamenta en principios coherentes con una evaluación basada en evidencias y con la naturaleza procesual de la escritura digital.
 
 | Principio | Aplicación en la evaluación |
 |---|---|
@@ -121,7 +117,7 @@ La aplicación de los instrumentos se fundamenta en una serie de principios que 
 | **Evaluación auténtica** | Las evidencias proceden de tareas de escritura con finalidad comunicativa desarrolladas en contextos reales de aprendizaje. |
 | **Autorregulación** | Se valoran las estrategias empleadas por el alumnado para planificar, monitorizar, revisar y mejorar sus propias producciones. |
 
-La utilización conjunta de estos instrumentos permite documentar la evolución del alumnado desde una escritura digital inicialmente dependiente de modelos y ayudas externas hasta una composición progresivamente más autónoma, estratégica y eficaz. Desde esta perspectiva, la evaluación deja de centrarse exclusivamente en el texto producido para incorporar el análisis de los procesos que hacen posible su construcción y mejora.
+En conjunto, los instrumentos permiten documentar la evolución del alumnado desde un uso inicial de la escritura digital hasta una composición progresivamente más autónoma, estratégica y eficaz, incorporando al análisis tanto el producto final como los procesos que hacen posible su construcción.
 
 ---
 
@@ -158,7 +154,7 @@ La siguiente tabla ofrece ejemplos representativos de cómo transformar las evid
 
 # Reutilización de este recurso
 
-Este recurso educativo abierto (REA) ha sido diseñado para facilitar su reutilización y adaptación en diferentes contextos de enseñanza, aprendizaje e investigación relacionados con la escritura digital y la alfabetización en lenguas adicionales.
+Este recurso educativo abierto (REA) puede reutilizarse y adaptarse en diferentes contextos de enseñanza, aprendizaje e investigación relacionados con la escritura digital y la alfabetización en lenguas adicionales.
 
 Aunque los instrumentos se han elaborado específicamente para la evaluación de la escritura digital en chino como lengua extranjera mediante la interfaz **pinyin-hanzi**, su estructura metodológica puede servir de referencia para el diseño de sistemas de evaluación aplicables a otras lenguas, niveles educativos y contextos tecnológicos.
 
@@ -226,11 +222,11 @@ Todo ello siempre que:
 
 # Consideraciones finales
 
-La escritura digital constituye actualmente una de las principales modalidades de producción escrita en los procesos de enseñanza y aprendizaje de lenguas. En el caso del chino como lengua extranjera, el empleo de la interfaz **pinyin-hanzi** incorpora procesos específicos de recuperación léxica, selección de caracteres, revisión y autorregulación que amplían las posibilidades de observación y evaluación del desempeño del alumnado.
+Este recurso aporta un modelo de evaluación específicamente diseñado para analizar la escritura digital en chino como lengua extranjera desde una perspectiva basada en evidencias. Su principal contribución consiste en integrar, dentro de un mismo sistema de instrumentos, la observación del producto escrito, el análisis del proceso de composición y la valoración de las estrategias de autorregulación que intervienen durante la escritura.
 
-Los instrumentos reunidos en este recurso han sido concebidos para documentar dichos procesos de manera sistemática mediante un enfoque de evaluación basado en evidencias. Su utilización permite analizar no solo la calidad del texto producido, sino también las decisiones que el estudiante adopta durante la composición, las estrategias que emplea para planificar, monitorizar y revisar su escritura, y la evolución progresiva de su competencia de escritura digital.
+La combinación de rúbricas analíticas, plantilla de registro *in situ* y orientaciones para *feedback* y *feedforward* facilita una evaluación sistemática, coherente y orientada a la mejora del aprendizaje. Este enfoque permite fundamentar las decisiones docentes a partir de evidencias observables y favorecer un acompañamiento más preciso del progreso del alumnado.
 
-Desde esta perspectiva, la evaluación deja de entenderse como un mecanismo orientado exclusivamente a la calificación para convertirse en una herramienta que acompaña el aprendizaje, fundamenta la toma de decisiones docentes y favorece el desarrollo de escritores cada vez más autónomos, estratégicos y competentes.
+Más allá de su aplicación en los niveles A1-A2 del MCER, el modelo propuesto constituye una referencia metodológica para el diseño de instrumentos de evaluación de la escritura digital en otros niveles, lenguas y contextos educativos, especialmente en aquellos en los que la tecnología forma parte del propio proceso de composición escrita.
 
 ---
 
