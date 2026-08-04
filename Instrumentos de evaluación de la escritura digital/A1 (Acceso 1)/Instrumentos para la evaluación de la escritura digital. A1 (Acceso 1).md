@@ -1,58 +1,165 @@
-# Instrumentos para la evaluación de la escritura digital.
-## A1 (Acceso 1)
+# Instrumentos para la evaluación de la escritura digital
+
+## A1 MCER (Acceso 1)
+
+Estos instrumentos están diseñados para observar y valorar el desarrollo de la escritura digital en chino como lengua extranjera correspondiente al nivel **A1 (Acceso 1)** del MCER.
+
+El conjunto incluye una rúbrica de análisis de la escritura digital, una rúbrica de análisis de la autorregulación, una plantilla de registro in situ y un conjunto de orientaciones para la interpretación de evidencias mediante procesos de *feedback* y *feedforward*. Su finalidad es facilitar la recogida sistemática de evidencias durante actividades de composición escrita realizadas mediante herramientas digitales.
+
+La evaluación permite analizar tanto el producto final como el proceso de escritura, atendiendo a la utilización de **la interfaz pinyin-hanzi,** la selección de caracteres, la construcción progresiva del texto, la revisión durante la composición y las estrategias de autorregulación desarrolladas por el alumnado.
+
+La valoración se realiza seleccionando el descriptor (A-D) que mejor representa el desempeño observado en cada indicador. Las evidencias recogidas permiten fundamentar la retroalimentación y orientar futuras actuaciones de aprendizaje.
 
 ---
 
-# Presentación
+# Instrumento 1. Rúbrica de análisis de la escritura digital
 
-Este documento reúne los instrumentos destinados a evaluar la escritura digital en chino como lengua extranjera correspondientes al nivel **A1 (Acceso 1)** del Marco Común Europeo de Referencia para las Lenguas (MCER).
+## Finalidad
 
-La escritura digital constituye actualmente la modalidad predominante de producción escrita en numerosos contextos educativos. En el caso del chino como lengua extranjera, esta modalidad incorpora procesos específicos derivados del uso de la interfaz **pinyin-hanzi**, mediante la cual el estudiante introduce la pronunciación de las palabras y selecciona posteriormente los caracteres entre diferentes candidatos propuestos por el sistema.
+Esta rúbrica permite analizar el desempeño global del alumnado durante actividades de escritura digital en chino como lengua extranjera correspondientes al nivel A1 (Acceso 1) del MCER.
 
-Como consecuencia, la evaluación de la escritura digital no puede limitarse al análisis del producto final. Resulta igualmente necesario observar cómo el alumnado construye el texto, cómo utiliza la interfaz digital, qué decisiones adopta durante la composición y qué estrategias pone en funcionamiento para revisar y mejorar progresivamente sus producciones.
+Se centra en cuatro dimensiones:
 
-Este enfoque permite interpretar la escritura digital como un proceso dinámico en el que la planificación, la recuperación léxica, la selección de caracteres, la revisión y la autorregulación generan evidencias relevantes para comprender el desarrollo de la competencia escrita.
+- **Utilización de la interfaz pinyin-hanzi:** capacidad para introducir correctamente el pinyin, seleccionar los caracteres adecuados y utilizar de forma funcional el sistema de entrada digital.
+- **Construcción del texto digital:** capacidad para producir palabras, expresiones y mensajes muy breves adecuados a la situación comunicativa utilizando los recursos lingüísticos propios del nivel.
+- **Revisión durante la escritura:** capacidad para detectar errores, revisar el texto mientras se escribe y realizar correcciones sencillas utilizando las posibilidades que ofrece el entorno digital.
+- **Autonomía en la escritura digital:** capacidad para desarrollar la actividad utilizando progresivamente los recursos disponibles antes de recurrir a la ayuda del docente.
 
-Los instrumentos incluidos en este documento han sido diseñados desde un enfoque de evaluación basada en evidencias y permiten documentar tanto el producto escrito como el proceso de composición digital desarrollado durante la actividad.
+El docente seleccionará el descriptor que mejor represente el desempeño observado en cada dimensión.
 
-El conjunto está integrado por cuatro instrumentos complementarios:
+La rúbrica de Escritura digital ofrece una valoración global del proceso de composición y del producto escrito generado mediante herramientas digitales. Las estrategias cognitivas y metacognitivas implicadas en dicho proceso se analizan posteriormente mediante la rúbrica de Autorregulación.
 
-- una **rúbrica para la evaluación de la escritura digital**, destinada a valorar el uso de la interfaz **pinyin-hanzi**, la construcción del texto, la revisión y la autonomía durante la composición;
-- una **rúbrica para la evaluación de la autorregulación**, orientada a identificar las estrategias cognitivas y metacognitivas que el alumnado desarrolla antes, durante y después de escribir;
-- una **plantilla de registro _in situ_**, diseñada para facilitar la recogida sistemática de evidencias durante la realización de actividades de escritura digital;
-- una **guía para la interpretación de evidencias**, destinada a transformar la información recogida mediante las rúbricas y la plantilla de observación en procesos de *feedback* y *feedforward* orientados a la mejora del aprendizaje.
+La autonomía durante la escritura se valora mediante esta rúbrica porque constituye una dimensión inseparable del desempeño digital. En este nivel inicial, el uso funcional de la interfaz **pinyin-hanzi**, la gestión de las ayudas del sistema y la resolución de pequeñas dificultades forman parte del propio proceso de composición escrita.
 
-La valoración se realiza mediante la selección del descriptor (A-D) que mejor representa el desempeño observado en cada indicador. Las evidencias obtenidas permiten fundamentar las decisiones de evaluación, identificar patrones de actuación durante la composición escrita y orientar intervenciones docentes dirigidas al desarrollo progresivo de una escritura digital cada vez más autónoma, estratégica y eficaz.
-
----
-
-# Organización del documento
-
-Los instrumentos se presentan siguiendo una secuencia coherente con el proceso de evaluación desarrollado durante una actividad de escritura digital.
-
-| Instrumento | Finalidad |
-|---|---|
-| **Instrumento 1. Rúbrica de análisis de la escritura digital** | Valorar el desempeño observado durante el proceso de composición y en el producto escrito. |
-| **Instrumento 2. Rúbrica de análisis de la autorregulación** | Identificar las estrategias de planificación, monitorización, revisión y gestión autónoma del proceso de escritura. |
-| **Instrumento 3. Plantilla de registro _in situ_** | Documentar de forma rápida y sistemática las evidencias observadas durante la actividad. |
-| **Instrumento 4. Guía para la interpretación de evidencias** | Transformar las evidencias recogidas en procesos de *feedback* y *feedforward* orientados a la mejora del aprendizaje. |
-
-Los cuatro instrumentos constituyen un sistema integrado de evaluación. Las rúbricas permiten interpretar el desempeño observado; la plantilla facilita la documentación sistemática de las evidencias; y la guía de interpretación proporciona orientaciones para convertir la información obtenida en decisiones de evaluación y propuestas concretas de mejora.
+| | A | B | C | D |
+|---|---|---|---|---|
+| **Utilización de la interfaz pinyin-hanzi** | Introduce correctamente el pinyin y selecciona de forma autónoma los caracteres adecuados para escribir palabras y expresiones muy frecuentes. Utiliza la interfaz con seguridad y resuelve pequeñas dudas mediante las opciones del sistema. | Introduce correctamente el pinyin y selecciona la mayoría de los caracteres adecuados, aunque necesita comprobar algunas opciones o corregir errores puntuales durante la escritura. | Introduce el pinyin con ayuda o presenta dificultades frecuentes para seleccionar los caracteres adecuados. Depende de modelos, del predictor o del apoyo del docente para completar la escritura. | Tiene dificultades para utilizar la interfaz **pinyin-hanzi** incluso con apoyo. No consigue seleccionar de forma funcional los caracteres necesarios para completar la tarea. |
+| **Construcción del texto digital** | Produce palabras, expresiones y mensajes muy breves adecuados a la situación comunicativa. Utiliza el vocabulario y las estructuras trabajadas para construir un texto comprensible y funcional. | Produce mensajes sencillos relacionados con la actividad, aunque presenta algunas limitaciones en la recuperación del vocabulario o en la organización del mensaje que no impiden comprender la información principal. | Produce palabras o expresiones aisladas y depende de modelos o apoyos para completar el mensaje. Las dificultades de composición afectan parcialmente a la comprensión. | No consigue construir un mensaje escrito funcional. Las dificultades de composición impiden transmitir la información necesaria. |
+| **Revisión durante la escritura** | Revisa espontáneamente el texto mientras escribe, detecta errores sencillos y realiza correcciones que mejoran el mensaje antes de finalizar la tarea. | Revisa parcialmente el texto y corrige algunos errores cuando los identifica, aunque todavía necesita apoyo para realizar una revisión más completa. | Realiza pocas revisiones y depende del docente o de modelos para detectar y corregir errores durante la escritura. | No revisa el texto o no consigue identificar errores relevantes, incluso cuando recibe ayuda. |
+| **Autonomía en la escritura digital** | Utiliza la herramienta digital con autonomía, resuelve pequeñas dificultades y mantiene el proceso de escritura con escasa intervención del docente. | Completa la tarea con autonomía durante la mayor parte del proceso, aunque solicita ayuda ocasionalmente para resolver dudas o confirmar decisiones. | Necesita ayuda frecuente para continuar escribiendo o para resolver dificultades relacionadas con la interfaz o con la composición del texto. | No consigue desarrollar la actividad sin ayuda constante. La dependencia del apoyo externo impide completar la tarea de escritura digital. |
 
 ---
 
-# Principios de evaluación
+# Instrumento 2. Rúbrica de análisis de la autorregulación
 
-La aplicación de los instrumentos se fundamenta en los siguientes principios metodológicos:
+## Finalidad
 
-| Principio | Aplicación |
-|---|---|
-| **Evaluación basada en evidencias** | La valoración se fundamenta en comportamientos observables registrados durante la actividad de escritura. |
-| **Evaluación continua** | Las evidencias se recogen a lo largo de todo el proceso de composición y no únicamente al finalizar la tarea. |
-| **Evaluación formativa** | La información obtenida orienta procesos de *feedback* y *feedforward* destinados a favorecer la mejora progresiva del aprendizaje. |
-| **Observación sistemática** | Los indicadores permiten registrar de forma consistente comportamientos relacionados con la escritura digital y la autorregulación. |
-| **Autenticidad** | Las evidencias proceden de tareas de escritura con finalidad comunicativa desarrolladas en contextos reales de aprendizaje. |
+Esta rúbrica permite analizar las estrategias de autorregulación que el alumnado pone en funcionamiento durante actividades de escritura digital en chino como lengua extranjera correspondientes al nivel A1 (Acceso 1) del MCER.
 
-En el nivel **A1 (Acceso 1)**, la evaluación se centra especialmente en la familiarización con la interfaz **pinyin-hanzi**, la producción de palabras y mensajes muy breves, el desarrollo de las primeras estrategias de revisión y la aparición de conductas iniciales de autorregulación durante la escritura digital.
+Se centra en cuatro aspectos:
+
+- **Planificación de la escritura:** capacidad para comprender la tarea, anticipar el contenido y organizar la producción antes de comenzar a escribir.
+- **Monitorización del proceso:** capacidad para supervisar el desarrollo de la escritura, detectar dificultades y ajustar la actuación durante la composición.
+- **Utilización de recursos de apoyo:** capacidad para emplear de forma funcional las ayudas disponibles —modelos, vocabulario, diccionarios, interfaz digital o apoyo docente— para resolver dificultades durante la tarea.
+- **Reflexión sobre la propia producción:** capacidad para valorar el resultado obtenido, reconocer aspectos mejorables y utilizar las evidencias de la actividad para orientar futuras producciones.
+
+El docente seleccionará el descriptor que mejor represente el desempeño observado en cada aspecto.
+
+La rúbrica de Autorregulación complementa la valoración realizada mediante la rúbrica de Escritura digital. Mientras esta última permite analizar el desempeño observable durante la composición, la presente rúbrica centra la atención en las estrategias cognitivas y metacognitivas que el alumnado utiliza para planificar, controlar y mejorar su propio proceso de escritura.
+
+En este nivel inicial, la autorregulación se manifiesta principalmente mediante la utilización progresivamente más consciente de los recursos disponibles, la supervisión básica de la propia actividad y la capacidad para responder de manera adaptativa ante pequeñas dificultades surgidas durante la composición digital.
+
+| | A | B | C | D |
+|---|---|---|---|---|
+| **Planificación de la escritura** | Comprende la tarea antes de comenzar a escribir, identifica la información que necesita comunicar y organiza de forma sencilla el contenido que va a producir. | Comprende la tarea y planifica parcialmente la escritura, aunque necesita apoyo ocasional para organizar las ideas o recordar el contenido que debe incluir. | Comienza a escribir con escasa planificación y depende frecuentemente de modelos o indicaciones para organizar la producción. | Tiene dificultades para comprender la tarea y comenzar la escritura incluso con ayuda. No consigue organizar previamente el contenido que debe producir. |
+| **Monitorización del proceso** | Supervisa su escritura mientras trabaja, detecta pequeñas dificultades y realiza ajustes sencillos para continuar la composición de manera autónoma. | Controla parcialmente el proceso de escritura y realiza algunos ajustes cuando identifica dificultades, aunque necesita apoyo en determinadas ocasiones. | Presenta dificultades para supervisar su propio trabajo y depende con frecuencia del docente o de modelos para continuar escribiendo. | No consigue controlar el desarrollo de la actividad. Las dificultades durante la composición bloquean el proceso de escritura incluso con ayuda. |
+| **Utilización de recursos de apoyo** | Utiliza de forma adecuada los recursos disponibles para resolver dudas y continuar la escritura, recurriendo a la ayuda externa únicamente cuando resulta necesario. | Utiliza los recursos disponibles con cierta eficacia, aunque necesita orientación para seleccionar la ayuda más adecuada en algunas situaciones. | Depende frecuentemente de modelos, ayudas externas o indicaciones del docente para resolver la mayoría de las dificultades que aparecen durante la tarea. | No utiliza de forma funcional los recursos disponibles o depende completamente de la intervención del docente para completar la actividad. |
+| **Reflexión sobre la propia producción** | Reconoce de manera sencilla los aciertos y las dificultades de su producción, acepta las orientaciones recibidas y las incorpora progresivamente en tareas posteriores. | Identifica algunos aspectos que puede mejorar cuando recibe ayuda y comprende las orientaciones propuestas por el docente. | Presenta dificultades para valorar su propia producción y necesita apoyo constante para interpretar los errores o las sugerencias de mejora. | No consigue identificar aspectos relevantes de su producción ni utilizar las orientaciones recibidas para mejorar futuras tareas. |
+# Instrumento 3. Plantilla de registro *in situ*
+
+## Finalidad
+
+Esta plantilla permite recoger de manera rápida y sistemática las evidencias observadas durante una actividad de escritura digital en chino como lengua extranjera.
+
+Su finalidad es facilitar el registro del desempeño del alumnado mediante la identificación del nivel alcanzado en cada indicador y la anotación de evidencias relevantes que permitan fundamentar la evaluación, interpretar las dificultades observadas y orientar procesos de *feedback* y *feedforward*.
+
+La plantilla puede utilizarse durante cualquier actividad de escritura digital realizada mediante ordenador, tableta o teléfono inteligente, tanto en contextos presenciales como virtuales. Permite registrar evidencias relacionadas con el proceso de composición, el uso de la interfaz **pinyin-hanzi** y las estrategias de autorregulación desarrolladas por el alumnado durante la tarea.
 
 ---
+
+## Datos de identificación
+
+**Fecha:**  
+
+**Hora:**  
+
+**Estudiante:**  
+
+**Actividad / tarea:**  
+
+**Dispositivo utilizado:**  
+☐ Ordenador  
+☐ Tableta  
+☐ Teléfono inteligente  
+☐ Otro: ______________________
+
+**Tipo de actividad:**  
+☐ Escritura guiada  
+☐ Escritura semiguiada  
+☐ Escritura libre  
+☐ Actividad integrada de escritura digital
+
+---
+
+## Registro de evidencias
+
+| Categoría | Indicador | A | B | C | D | Evidencias observadas |
+|---|---|---|---|---|---|---|
+| **Escritura digital** | Utilización de la interfaz **pinyin-hanzi** | ☐ | ☐ | ☐ | ☐ | |
+|  | Construcción del texto digital | ☐ | ☐ | ☐ | ☐ | |
+|  | Revisión durante la escritura | ☐ | ☐ | ☐ | ☐ | |
+|  | Autonomía en la escritura digital | ☐ | ☐ | ☐ | ☐ | |
+| **Autorregulación** | Planificación de la escritura | ☐ | ☐ | ☐ | ☐ | |
+|  | Monitorización del proceso | ☐ | ☐ | ☐ | ☐ | |
+|  | Utilización de recursos de apoyo | ☐ | ☐ | ☐ | ☐ | |
+|  | Reflexión sobre la propia producción | ☐ | ☐ | ☐ | ☐ | |
+
+---
+
+## Observaciones
+
+**Evidencias relevantes:**  
+
+<br>
+
+**Dificultades observadas:**  
+
+<br>
+
+**Aspectos consolidados:**  
+
+<br>
+
+**Orientaciones para la mejora:**  
+
+<br>
+
+---
+
+# Orientaciones para la retroalimentación a partir de evidencias observadas
+
+La interpretación de las evidencias recogidas mediante las rúbricas permite identificar el grado de desarrollo de la competencia de escritura digital y de las estrategias de autorregulación que el alumnado pone en funcionamiento durante la composición escrita en chino como lengua extranjera.
+
+En este nivel, la atención se centra especialmente en la adquisición de un uso funcional de la interfaz **pinyin-hanzi**, el desarrollo de estrategias básicas de revisión durante la escritura y la progresiva autonomía para planificar, supervisar y mejorar las propias producciones digitales.
+
+La siguiente tabla ofrece ejemplos de interpretación de evidencias observables y posibles orientaciones de *feedback* y *feedforward*. El docente podrá adaptarlas al contexto de la actividad y a las necesidades específicas del alumnado.
+
+| Evidencia observada | Interpretación | Feedback | Feedforward |
+|---|---|---|---|
+| Introduce correctamente el pinyin, pero selecciona con frecuencia caracteres homófonos incorrectos. | La recuperación fonológica comienza a consolidarse, aunque la discriminación entre candidatos gráficos todavía requiere práctica. | Introduces correctamente el pinyin, pero necesitas fijarte mejor en los caracteres que ofrece la interfaz antes de seleccionarlos. | Practica la selección de caracteres homófonos en diferentes contextos y compara las combinaciones léxicas más frecuentes antes de confirmar la escritura. |
+| Produce palabras y expresiones sencillas, pero depende continuamente de modelos para construir el mensaje. | La composición escrita todavía se apoya principalmente en la reproducción de estructuras conocidas. | Consigues escribir utilizando modelos, pero poco a poco debes empezar a producir mensajes con mayor autonomía. | Realiza actividades que permitan modificar progresivamente modelos conocidos incorporando información personal o contextual. |
+| Apenas revisa el texto antes de finalizar la tarea. | La revisión todavía no forma parte habitual del proceso de composición digital. | Antes de terminar, dedica unos segundos a releer el texto para comprobar los caracteres, el vocabulario y el mensaje que quieres transmitir. | Incorpora una rutina de revisión que incluya la comprobación de caracteres, vocabulario y coherencia del mensaje antes de enviar el texto. |
+| Recurre inmediatamente al docente cuando aparece una dificultad durante la escritura. | La utilización autónoma de los recursos disponibles todavía es limitada. | Cuando encuentres una dificultad, intenta primero resolverla utilizando las herramientas disponibles antes de pedir ayuda. | Practica la resolución autónoma de pequeños problemas utilizando el predictor de caracteres, modelos o materiales de consulta antes de solicitar apoyo externo. |
+| Planifica brevemente lo que quiere escribir antes de comenzar la tarea. | Empieza a desarrollar estrategias iniciales de planificación de la composición. | Pensar previamente qué vas a escribir hace que el mensaje resulte más claro y organizado. | Continúa realizando una planificación breve antes de comenzar tareas de escritura cada vez más complejas. |
+| Detecta y corrige algunos errores mientras escribe. | Comienza a desarrollar estrategias básicas de monitorización del proceso de escritura. | Revisas tu escritura durante la actividad y eso mejora el resultado final. | Intenta revisar no solo los caracteres, sino también el vocabulario y la organización del mensaje antes de finalizar la tarea. |
+| Utiliza la interfaz **pinyin-hanzi** con seguridad y completa la actividad con escasa ayuda. | La herramienta digital empieza a integrarse como un medio funcional para la comunicación escrita. | Manejas la interfaz con autonomía y puedes concentrarte cada vez más en mejorar la calidad del texto. | Continúa desarrollando estrategias de planificación, revisión y autoevaluación para producir textos cada vez más completos y precisos. |
+
+---
+
+# Navegación del recurso
+
+- [README del recurso](../../README.md)
+- [Metadatos del recurso](../../Metadatos%20del%20recurso.md)
+- [A1 (Acceso 2)](A1%20%28Acceso%202%29/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A1%20%28Acceso%202%29.md)
+- [A2 (Plataforma 1)](A2%20%28Plataforma%201%29/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A2%20%28Plataforma%201%29.md)
+- [A2 (Plataforma 2)](A2%20%28Plataforma%202%29/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A2%20%28Plataforma%202%29.md)
