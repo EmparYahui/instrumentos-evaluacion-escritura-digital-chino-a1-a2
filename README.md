@@ -168,7 +168,7 @@ Las rúbricas, plantillas de observación y orientaciones para *feedback* y *fee
 - proyectos de aprendizaje apoyados en herramientas digitales;
 - investigaciones sobre escritura, evaluación y autorregulación del aprendizaje.
 
-La reutilización del modelo propuesto resulta especialmente adecuada cuando el objetivo consiste en evaluar no solo el producto final de la escritura, sino también los procesos desarrollados durante la composición digital y las estrategias que utiliza el alumnado para planificar, monitorizar, revisar y mejorar sus producciones.
+El modelo resulta especialmente adecuado cuando el objetivo es evaluar no solo el producto final de la escritura, sino también los procesos de composición digital y las estrategias de planificación, monitorización, revisión y mejora empleadas por el alumnado.
 
 ---
 
@@ -222,11 +222,11 @@ Todo ello siempre que:
 
 # Consideraciones finales
 
-Este recurso aporta un modelo de evaluación específicamente diseñado para analizar la escritura digital en chino como lengua extranjera desde una perspectiva basada en evidencias. Su principal contribución consiste en integrar, dentro de un mismo sistema de instrumentos, la observación del producto escrito, el análisis del proceso de composición y la valoración de las estrategias de autorregulación que intervienen durante la escritura.
+Este recurso proporciona un sistema integrado para la evaluación de la escritura digital en chino como lengua extranjera que combina rúbricas analíticas, observación sistemática y orientaciones para la interpretación de evidencias. Su diseño permite valorar no solo el texto producido, sino también los procesos de planificación, composición, revisión y autorregulación que intervienen durante la escritura mediante la interfaz **pinyin-hanzi**.
 
-La combinación de rúbricas analíticas, plantilla de registro *in situ* y orientaciones para *feedback* y *feedforward* facilita una evaluación sistemática, coherente y orientada a la mejora del aprendizaje. Este enfoque permite fundamentar las decisiones docentes a partir de evidencias observables y favorecer un acompañamiento más preciso del progreso del alumnado.
+La organización progresiva de los instrumentos conforme a los niveles A1-A2 del MCER facilita su utilización tanto en contextos de enseñanza como de investigación, ofreciendo criterios de evaluación coherentes con el desarrollo esperado de la competencia de escritura digital en las primeras etapas del aprendizaje del chino.
 
-Más allá de su aplicación en los niveles A1-A2 del MCER, el modelo propuesto constituye una referencia metodológica para el diseño de instrumentos de evaluación de la escritura digital en otros niveles, lenguas y contextos educativos, especialmente en aquellos en los que la tecnología forma parte del propio proceso de composición escrita.
+Al integrar evaluación, documentación de evidencias y procesos de *feedback* y *feedforward*, el recurso contribuye a una evaluación más transparente, formativa y fundamentada, favoreciendo la toma de decisiones docentes y el desarrollo progresivo de una escritura digital cada vez más autónoma, estratégica y eficaz.
 
 ---
 
