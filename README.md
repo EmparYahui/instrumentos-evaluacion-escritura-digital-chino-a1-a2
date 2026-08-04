@@ -134,7 +134,7 @@ La siguiente tabla sintetiza las principales dimensiones observables, los tipos 
 | **Uso de la interfaz pinyin-hanzi** | Introducción del pinyin, selección de caracteres, gestión de homófonos, utilización del predictor de caracteres. | Nivel de automatización en la recuperación léxica y dominio funcional de la escritura digital en chino. |
 | **Construcción del texto** | Organización de las ideas, cohesión, adecuación al propósito comunicativo y desarrollo del contenido. | Nivel de desarrollo de la competencia de composición escrita y capacidad para construir textos funcionales. |
 | **Revisión del texto** | Correcciones realizadas durante la escritura, reorganización de información, sustitución de caracteres o vocabulario y revisión del producto final. | Estrategias de monitorización, control de errores y mejora progresiva del texto. |
-| **Autorregulación del proceso** | Planificación, resolución de dificultades, toma de decisiones, utilización de recursos de apoyo y autonomía durante la escritura. | Desarrollo de estrategias metacognitivas y capacidad para gestionar el proceso de composición digital. |
+| **Autorregulación del proceso** | Planificación, resolución de dificultades, toma de decisiones, utilización de recursos de apoyo y autonomía durante la escritura. | Desarrollo de estrategias metacognitivas y capacidad para gestionar el proceso de composición digital. | 
 
 Una vez interpretadas las evidencias, el docente puede utilizarlas para proporcionar una retroalimentación específica (*feedback*) y orientar nuevas actuaciones de aprendizaje mediante procesos de proalimentación (*feedforward*).
 
