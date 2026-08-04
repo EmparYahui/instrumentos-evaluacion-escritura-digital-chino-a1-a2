@@ -25,10 +25,10 @@ Los instrumentos se organizan siguiendo la progresión de niveles establecida po
 
 | Nivel MCER | Foco de competencia esperado | Principales aspectos observables |
 |---|---|---|
-| *A1<br>(Acceso 1)* | Descubrimiento de la escritura digital en chino | Introducción de pinyin, selección inicial de caracteres, dependencia de modelos y ayudas del sistema, producción de palabras y expresiones muy breves. |
-| *A1<br>(Acceso 2)* | Consolidación del uso básico de la interfaz digital | Mayor precisión en la selección de caracteres, producción de mensajes sencillos, primeras estrategias de revisión y menor dependencia de modelos. |
-| *A2<br>(Plataforma 1)* | Desarrollo de la composición digital | Producción de textos breves organizados, utilización más eficaz del entorno digital, revisión consciente y primeras estrategias de autorregulación. |
-| *A2<br>(Plataforma 2)* | Escritura digital autónoma y estratégica | Composición de textos más completos, utilización flexible de la interfaz pinyin-hanzi, integración de procesos de planificación, monitorización y revisión durante la escritura. |
+| **A1<br>(Acceso 1)** | Descubrimiento de la escritura digital en chino | Introducción de pinyin, selección inicial de caracteres, dependencia de modelos y ayudas del sistema, producción de palabras y expresiones muy breves. |
+| **A1<br>(Acceso 2)** | Consolidación del uso básico de la interfaz digital | Mayor precisión en la selección de caracteres, producción de mensajes sencillos, primeras estrategias de revisión y menor dependencia de modelos. |
+| **A2<br>(Plataforma 1)** | Desarrollo de la composición digital | Producción de textos breves organizados, utilización más eficaz del entorno digital, revisión consciente y primeras estrategias de autorregulación. |
+| **A2<br>(Plataforma 2)** | Escritura digital autónoma y estratégica | Composición de textos más completos, utilización flexible de la interfaz pinyin-hanzi, integración de procesos de planificación, monitorización y revisión durante la escritura. |
 
 ---
 
@@ -40,10 +40,10 @@ Los descriptores evolucionan progresivamente desde el aprendizaje inicial del si
 
 | Nivel MCER | Instrumento |
 |---|---|
-| *A1 (Acceso 1)* | [Instrumentos para la evaluación de la escritura digital. A1 (Acceso 1)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A1%20(Acceso%201)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A1%20(Acceso%201).md) |
-| *A1 (Acceso 2)* | [Instrumentos para la evaluación de la escritura digital. A1 (Acceso 2)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A1%20(Acceso%202)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A1%20(Acceso%202).md) |
-| *A2 (Plataforma 1)* | [Instrumentos para la evaluación de la escritura digital. A2 (Plataforma 1)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A2%20(Plataforma%201)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A2%20(Plataforma%201).md) |
-| *A2 (Plataforma 2)* | [Instrumentos para la evaluación de la escritura digital. A2 (Plataforma 2)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A2%20(Plataforma%202)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A2%20(Plataforma%202).md) |
+| **A1 (Acceso 1)** | [Instrumentos para la evaluación de la escritura digital. A1 (Acceso 1)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A1%20(Acceso%201)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A1%20(Acceso%201).md) |
+| **A1 (Acceso 2)** | [Instrumentos para la evaluación de la escritura digital. A1 (Acceso 2)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A1%20(Acceso%202)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A1%20(Acceso%202).md) |
+| **A2 (Plataforma 1)** | [Instrumentos para la evaluación de la escritura digital. A2 (Plataforma 1)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A2%20(Plataforma%201)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A2%20(Plataforma%201).md) |
+| **A2 (Plataforma 2)** | [Instrumentos para la evaluación de la escritura digital. A2 (Plataforma 2)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A2%20(Plataforma%202)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A2%20(Plataforma%202).md) |
 
 Cada documento incluye cuatro componentes complementarios:
 
