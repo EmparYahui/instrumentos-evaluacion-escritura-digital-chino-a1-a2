@@ -17,18 +17,22 @@ El conjunto está formado por:
 
 La valoración se realiza mediante la selección del descriptor (A-D) que mejor representa el desempeño observado en cada indicador. Los resultados obtenidos no persiguen únicamente una finalidad calificadora, sino que permiten comprender cómo construye el alumnado sus producciones escritas, identificar patrones de actuación y orientar intervenciones docentes fundamentadas en evidencias.
 
+La escritura digital constituye actualmente una de las principales modalidades de producción escrita en los procesos de enseñanza y aprendizaje de lenguas. En el caso del chino como lengua extranjera, el empleo de la interfaz **pinyin-hanzi** incorpora procesos específicos de recuperación léxica, selección de caracteres, revisión y autorregulación que amplían las posibilidades de observación y evaluación del desempeño del alumnado.
+
+Desde esta perspectiva, la evaluación deja de entenderse como un mecanismo orientado exclusivamente a la calificación para convertirse en una herramienta que acompaña el aprendizaje, fundamenta la toma de decisiones docentes y favorece el desarrollo progresivo de escritores cada vez más autónomos, estratégicos y competentes.
+
 ---
 
 # Progresión de la escritura digital
 
-Los instrumentos se organizan siguiendo la progresión de niveles establecida por el MCER (A1-A2). Cada conjunto de rúbricas responde al desarrollo esperado de la competencia de escritura digital y permite observar la evolución desde el uso inicial de la interfaz **pinyin-hanzi** hasta una composición escrita cada vez más autónoma, estratégica y autorregulada.
+Los instrumentos se organizan siguiendo la progresión de niveles establecida por el MCER (A1-A2). Cada conjunto de instrumentos responde al desarrollo esperado de la competencia de escritura digital y permite observar la evolución desde el uso inicial de la interfaz **pinyin-hanzi** hasta una composición escrita progresivamente más autónoma, estratégica y autorregulada.
 
 | Nivel MCER | Foco de competencia esperado | Principales aspectos observables |
 |---|---|---|
-| **A1<br>(Acceso 1)** | Descubrimiento de la escritura digital en chino | Introducción de pinyin, selección inicial de caracteres, dependencia de modelos y ayudas del sistema, producción de palabras y expresiones muy breves. |
+| **A1<br>(Acceso 1)** | Descubrimiento de la escritura digital en chino | Introducción de *pinyin*, selección inicial de caracteres, dependencia de modelos y ayudas del sistema, producción de palabras y expresiones muy breves. |
 | **A1<br>(Acceso 2)** | Consolidación del uso básico de la interfaz digital | Mayor precisión en la selección de caracteres, producción de mensajes sencillos, primeras estrategias de revisión y menor dependencia de modelos. |
 | **A2<br>(Plataforma 1)** | Desarrollo de la composición digital | Producción de textos breves organizados, utilización más eficaz del entorno digital, revisión consciente y primeras estrategias de autorregulación. |
-| **A2<br>(Plataforma 2)** | Escritura digital autónoma y estratégica | Composición de textos más completos, utilización flexible de la interfaz pinyin-hanzi, integración de procesos de planificación, monitorización y revisión durante la escritura. |
+| **A2<br>(Plataforma 2)** | Escritura digital autónoma y estratégica | Composición de textos más completos, utilización flexible de la interfaz *pinyin-hanzi*, integración de procesos de planificación, monitorización y revisión durante la escritura. |
 
 ---
 
@@ -54,7 +58,7 @@ Cada documento incluye cuatro componentes complementarios:
 | **Plantilla de registro _in situ_** | Recoger de forma rápida y sistemática evidencias observadas durante la actividad. |
 | **Guía para *feedback* y *feedforward*** | Transformar las evidencias recogidas en orientaciones concretas para la mejora del aprendizaje. |
 
-Los cuatro instrumentos constituyen un sistema integrado de evaluación basado en evidencias. Mientras las rúbricas permiten interpretar el desempeño observado, la plantilla facilita su documentación sistemática y las orientaciones para *feedback* y *feedforward* convierten dichas evidencias en propuestas concretas para favorecer el desarrollo progresivo de la escritura digital.
+Los cuatro instrumentos constituyen un sistema integrado de evaluación basado en evidencias. Mientras las rúbricas permiten interpretar el desempeño observado, la plantilla facilita su documentación sistemática y la guía de *feedback* y *feedforward* transforma dichas evidencias en orientaciones concretas para favorecer el desarrollo progresivo de la escritura digital.
 
 ---
 
@@ -121,7 +125,7 @@ La utilización conjunta de estos instrumentos permite documentar la evolución 
 
 ---
 
-# De la observación a la mejora del aprendizaje
+# De la evidencia observada a la mejora del aprendizaje
 
 Los instrumentos que integran este recurso permiten recoger evidencias relacionadas tanto con el producto final como con el proceso de escritura digital desarrollado por el alumnado.
 
@@ -131,10 +135,10 @@ La siguiente tabla sintetiza las principales dimensiones observables, los tipos 
 
 | Dimensión observada | Evidencias que puede registrar el docente | Qué permiten interpretar |
 |---|---|---|
-| **Uso de la interfaz pinyin-hanzi** | Introducción del pinyin, selección de caracteres, gestión de homófonos, utilización del predictor de caracteres. | Nivel de automatización en la recuperación léxica y dominio funcional de la escritura digital en chino. |
+| **Uso de la interfaz pinyin-hanzi** | Introducción del *pinyin*, selección de caracteres, gestión de homófonos, utilización del predictor de caracteres. | Nivel de automatización en la recuperación léxica y dominio funcional de la escritura digital en chino. |
 | **Construcción del texto** | Organización de las ideas, cohesión, adecuación al propósito comunicativo y desarrollo del contenido. | Nivel de desarrollo de la competencia de composición escrita y capacidad para construir textos funcionales. |
-| **Revisión del texto** | Correcciones realizadas durante la escritura, reorganización de información, sustitución de caracteres o vocabulario y revisión del producto final. | Estrategias de monitorización, control de errores y mejora progresiva del texto. |
-| **Autorregulación del proceso** | Planificación, resolución de dificultades, toma de decisiones, utilización de recursos de apoyo y autonomía durante la escritura. | Desarrollo de estrategias metacognitivas y capacidad para gestionar el proceso de composición digital. | 
+| **Revisión del texto** | Correcciones realizadas durante la escritura, reorganización de la información, sustitución de caracteres o vocabulario y revisión del producto final. | Estrategias de monitorización, control de errores y mejora progresiva del texto. |
+| **Autorregulación del proceso** | Planificación, resolución de dificultades, toma de decisiones, utilización de recursos de apoyo y autonomía durante la escritura. | Desarrollo de estrategias metacognitivas y capacidad para gestionar el proceso de composición digital. |
 
 Una vez interpretadas las evidencias, el docente puede utilizarlas para proporcionar una retroalimentación específica (*feedback*) y orientar nuevas actuaciones de aprendizaje mediante procesos de proalimentación (*feedforward*).
 
@@ -149,16 +153,6 @@ La siguiente tabla ofrece ejemplos representativos de cómo transformar las evid
 | Planifica previamente el contenido antes de comenzar a escribir. | Ha desarrollado estrategias iniciales de planificación del proceso de composición. | La planificación previa facilita que tus textos sean más claros y organizados. | Utiliza esquemas o mapas de ideas antes de escribir tareas de mayor complejidad para mejorar la organización global del texto. |
 | Sustituye vocabulario repetitivo por expresiones más adecuadas durante la edición. | La revisión se orienta a mejorar la calidad comunicativa y no únicamente a corregir errores. | No solo corriges errores, sino que también enriqueces el contenido de tus textos. | Incorpora revisiones específicas centradas en variedad léxica, cohesión y adecuación al destinatario. |
 | Gestiona de forma autónoma la interfaz digital y resuelve pequeñas dificultades sin ayuda externa. | La escritura digital está integrada como herramienta de comunicación y no constituye un obstáculo técnico. | Utilizas la herramienta digital con autonomía y puedes centrarte en mejorar la calidad de tus textos. | Continúa desarrollando estrategias de composición más complejas, incorporando procesos de planificación, revisión y autoevaluación cada vez más sistemáticos. |
-
----
-
-## La evaluación como herramienta para aprender
-
-Los instrumentos propuestos conciben la evaluación como un proceso continuo de recogida e interpretación de evidencias orientado a favorecer el aprendizaje.
-
-Las rúbricas permiten identificar patrones de desempeño; la plantilla de registro facilita documentar esos patrones durante la actividad; y las orientaciones para *feedback* y *feedforward* convierten las evidencias observadas en propuestas concretas de mejora.
-
-De este modo, la evaluación deja de centrarse exclusivamente en el producto final para incorporar el análisis de los procesos que hacen posible la escritura digital. Esta perspectiva favorece una enseñanza más personalizada, promueve la autorregulación del aprendizaje y facilita el desarrollo progresivo de una competencia de escritura digital cada vez más autónoma, estratégica y eficaz.
 
 ---
 
@@ -200,8 +194,6 @@ Al utilizar este recurso como referencia metodológica, se recomienda mantener l
 
 El modelo de evaluación presentado en este recurso puede servir de referencia para el desarrollo de nuevos instrumentos destinados a evaluar diferentes modalidades de escritura digital.
 
-Entre otras posibilidades, puede adaptarse a:
-
 | Ámbito | Posible aplicación |
 |---|---|
 | Escritura colaborativa | Evaluación de procesos de coautoría y revisión compartida. |
@@ -234,11 +226,11 @@ Todo ello siempre que:
 
 # Consideraciones finales
 
-La escritura digital constituye actualmente una de las principales modalidades de producción escrita en los procesos de enseñanza y aprendizaje de lenguas. En el caso del chino como lengua extranjera, el empleo de la interfaz **pinyin-hanzi** introduce procesos específicos de recuperación léxica, selección de caracteres y revisión que amplían las posibilidades de observación y evaluación del desempeño del alumnado.
+La escritura digital constituye actualmente una de las principales modalidades de producción escrita en los procesos de enseñanza y aprendizaje de lenguas. En el caso del chino como lengua extranjera, el empleo de la interfaz **pinyin-hanzi** incorpora procesos específicos de recuperación léxica, selección de caracteres, revisión y autorregulación que amplían las posibilidades de observación y evaluación del desempeño del alumnado.
 
-Los instrumentos reunidos en este recurso han sido concebidos para documentar dichos procesos de manera sistemática mediante un enfoque basado en evidencias. Su utilización permite analizar no solo la calidad del texto producido, sino también las decisiones que el estudiante adopta durante la composición, las estrategias de autorregulación que pone en funcionamiento y la evolución progresiva de su competencia de escritura digital.
+Los instrumentos reunidos en este recurso han sido concebidos para documentar dichos procesos de manera sistemática mediante un enfoque de evaluación basado en evidencias. Su utilización permite analizar no solo la calidad del texto producido, sino también las decisiones que el estudiante adopta durante la composición, las estrategias que emplea para planificar, monitorizar y revisar su escritura, y la evolución progresiva de su competencia de escritura digital.
 
-Desde esta perspectiva, la evaluación deja de entenderse como un mecanismo exclusivamente orientado a la calificación para convertirse en una herramienta que acompaña el aprendizaje, facilita la toma de decisiones docentes y favorece el desarrollo de escritores cada vez más autónomos, estratégicos y competentes.
+Desde esta perspectiva, la evaluación deja de entenderse como un mecanismo orientado exclusivamente a la calificación para convertirse en una herramienta que acompaña el aprendizaje, fundamenta la toma de decisiones docentes y favorece el desarrollo de escritores cada vez más autónomos, estratégicos y competentes.
 
 ---
 
@@ -247,17 +239,3 @@ Desde esta perspectiva, la evaluación deja de entenderse como un mecanismo excl
 Para consultar los metadatos completos del recurso, incluyendo información sobre autoría, descripción, destinatarios, competencias, palabras clave, forma recomendada de citación y licencia, véase:
 
 [Metadatos del recurso](./Metadatos%20del%20recurso.md)
-
----
-
-# Navegación del recurso
-
-- [Metadatos del recurso](./Metadatos%20del%20recurso.md)
-
-## Instrumentos por nivel
-
-- [A1 (Acceso 1)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A1%20(Acceso%201)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A1%20(Acceso%201).md)
-- [A1 (Acceso 2)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A1%20(Acceso%202)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A1%20(Acceso%202).md)
-- [A2 (Plataforma 1)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A2%20(Plataforma%201)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A2%20(Plataforma%201).md)
-- [A2 (Plataforma 2)](./Instrumentos%20de%20evaluaci%C3%B3n%20de%20la%20escritura%20digital/A2%20(Plataforma%202)/Instrumentos%20para%20la%20evaluaci%C3%B3n%20de%20la%20escritura%20digital.%20A2%20(Plataforma%202).md)
-
