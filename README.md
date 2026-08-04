@@ -17,7 +17,7 @@ El conjunto está formado por:
 
 La valoración se realiza mediante la selección del descriptor (A-D) que mejor representa el desempeño observado en cada indicador. Los resultados obtenidos no persiguen únicamente una finalidad calificadora, sino que permiten comprender cómo construye el alumnado sus producciones escritas, identificar patrones de actuación y orientar intervenciones docentes fundamentadas en evidencias.
 
-La escritura digital constituye actualmente una de las principales modalidades de producción escrita en los procesos de enseñanza y aprendizaje de lenguas. En el caso del chino como lengua extranjera, el empleo de la interfaz **pinyin-hanzi** incorpora procesos específicos de recuperación léxica, selección de caracteres, revisión y autorregulación que amplían las posibilidades de observación y evaluación del desempeño del alumnado.
+La escritura digital constituye actualmente una de las principales modalidades de producción escrita en los procesos de enseñanza y aprendizaje de lenguas. En chino como lengua extranjera, el uso de la interfaz pinyin-hanzi introduce procesos específicos que amplían las posibilidades de observación y evaluación del desempeño del alumnado.
 
 Desde esta perspectiva, la evaluación deja de entenderse como un mecanismo orientado exclusivamente a la calificación para convertirse en una herramienta que acompaña el aprendizaje, fundamenta la toma de decisiones docentes y favorece el desarrollo progresivo de escritores cada vez más autónomos, estratégicos y competentes.
 
