@@ -67,6 +67,8 @@ En este nivel inicial, la autorregulación se manifiesta principalmente mediante
 | **Reflexión sobre la propia producción** | Reconoce de manera sencilla los aciertos y las dificultades de su producción, acepta las orientaciones recibidas y las incorpora progresivamente en tareas posteriores. | Identifica algunos aspectos que puede mejorar cuando recibe ayuda y comprende las orientaciones propuestas por el docente. | Presenta dificultades para valorar su propia producción y necesita apoyo constante para interpretar los errores o las sugerencias de mejora. | No consigue identificar aspectos relevantes de su producción ni utilizar las orientaciones recibidas para mejorar futuras tareas. |
 # Instrumento 3. Plantilla de registro *in situ*
 
+---
+
 ## Finalidad
 
 Esta plantilla permite recoger de manera rápida y sistemática las evidencias observadas durante una actividad de escritura digital en chino como lengua extranjera.
