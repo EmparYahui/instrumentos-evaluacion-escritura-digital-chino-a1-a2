@@ -1,7 +1,5 @@
 # Instrumentos para la evaluación de la escritura digital
 
-# Instrumentos para la evaluación de la escritura digital
-
 ## A1 MCER (Acceso 1)
 
 Estos instrumentos están diseñados para observar y valorar el desarrollo de la escritura digital en chino como lengua extranjera correspondiente al nivel **A1 (Acceso 1)** del Marco Común Europeo de Referencia para las Lenguas (MCER).
@@ -18,20 +16,20 @@ La valoración se realiza seleccionando el descriptor (A–D) que mejor represen
 
 ## Finalidad
 
-Esta rúbrica permite analizar el desempeño global del alumnado durante actividades de escritura digital en chino como lengua extranjera correspondientes al nivel A1 (Acceso 1) del MCER.
+Esta rúbrica permite analizar el desempeño global del alumnado durante actividades de escritura digital en chino como lengua extranjera correspondientes al nivel **A1 (Acceso 1)** del MCER.
 
 Se centra en cuatro dimensiones:
 
-- **Utilización de la interfaz pinyin-hanzi:** capacidad para introducir correctamente el pinyin, seleccionar los caracteres adecuados y utilizar de forma funcional el sistema de entrada digital.
+- **Utilización de la interfaz pinyin-hanzi:** capacidad para introducir correctamente el *pinyin*, seleccionar los caracteres adecuados y utilizar de forma funcional el sistema de entrada digital.
 - **Construcción del texto digital:** capacidad para producir palabras, expresiones y mensajes muy breves adecuados a la situación comunicativa utilizando los recursos lingüísticos propios del nivel.
-- **Revisión durante la escritura:** capacidad para detectar errores, revisar el texto mientras se escribe y realizar correcciones sencillas utilizando las posibilidades que ofrece el entorno digital.
-- **Autonomía en la escritura digital:** capacidad para desarrollar la actividad utilizando progresivamente los recursos disponibles antes de recurrir a la ayuda del docente.
+- **Revisión durante la escritura:** capacidad para detectar errores, revisar el texto durante la composición y realizar correcciones sencillas aprovechando las posibilidades del entorno digital.
+- **Autonomía en la escritura digital:** capacidad para gestionar progresivamente el proceso de composición utilizando los recursos disponibles antes de recurrir a la ayuda del docente.
 
 El docente seleccionará el descriptor que mejor represente el desempeño observado en cada dimensión.
 
-La rúbrica de Escritura digital ofrece una valoración global del proceso de composición y del producto escrito generado mediante herramientas digitales. Las estrategias cognitivas y metacognitivas implicadas en dicho proceso se analizan posteriormente mediante la rúbrica de Autorregulación.
+La rúbrica ofrece una valoración integrada del proceso de composición y del producto escrito generado mediante herramientas digitales. Los procesos de planificación, monitorización y reflexión sobre la propia actividad se analizan posteriormente mediante la rúbrica de Autorregulación.
 
-La autonomía durante la escritura se valora mediante esta rúbrica porque constituye una dimensión inseparable del desempeño digital. En este nivel inicial, el uso funcional de la interfaz **pinyin-hanzi**, la gestión de las ayudas del sistema y la resolución de pequeñas dificultades forman parte del propio proceso de composición escrita.
+En este nivel inicial, la escritura digital no depende únicamente del conocimiento lingüístico, sino también del uso funcional de la interfaz **pinyin-hanzi**. La recuperación léxica, la selección de caracteres, la revisión durante la composición y la gestión de las ayudas del sistema forman parte del propio desempeño comunicativo y, por tanto, constituyen dimensiones específicas de evaluación.
 
 | | A | B | C | D |
 |---|---|---|---|---|
