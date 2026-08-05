@@ -44,20 +44,20 @@ En este nivel inicial, la escritura digital no depende únicamente del conocimie
 
 ## Finalidad
 
-Esta rúbrica permite analizar las estrategias de autorregulación que el alumnado pone en funcionamiento durante actividades de escritura digital en chino como lengua extranjera correspondientes al nivel A1 (Acceso 1) del MCER.
+Esta rúbrica permite analizar las estrategias de autorregulación que el alumnado pone en funcionamiento durante actividades de escritura digital en chino como lengua extranjera correspondientes al nivel **A1 (Acceso 1)** del MCER.
 
 Se centra en cuatro aspectos:
 
 - **Planificación de la escritura:** capacidad para comprender la tarea, anticipar el contenido y organizar la producción antes de comenzar a escribir.
-- **Monitorización del proceso:** capacidad para supervisar el desarrollo de la escritura, detectar dificultades y ajustar la actuación durante la composición.
-- **Utilización de recursos de apoyo:** capacidad para emplear de forma funcional las ayudas disponibles —modelos, vocabulario, diccionarios, interfaz digital o apoyo docente— para resolver dificultades durante la tarea.
+- **Monitorización del proceso:** capacidad para supervisar el desarrollo de la composición, detectar dificultades y ajustar la actuación durante la escritura.
+- **Utilización de recursos de apoyo:** capacidad para emplear de forma funcional los recursos disponibles —modelos, vocabulario, diccionarios, interfaz digital o apoyo docente— para resolver dificultades durante la tarea.
 - **Reflexión sobre la propia producción:** capacidad para valorar el resultado obtenido, reconocer aspectos mejorables y utilizar las evidencias de la actividad para orientar futuras producciones.
 
 El docente seleccionará el descriptor que mejor represente el desempeño observado en cada aspecto.
 
-La rúbrica de Autorregulación complementa la valoración realizada mediante la rúbrica de Escritura digital. Mientras esta última permite analizar el desempeño observable durante la composición, la presente rúbrica centra la atención en las estrategias cognitivas y metacognitivas que el alumnado utiliza para planificar, controlar y mejorar su propio proceso de escritura.
+La rúbrica de Autorregulación complementa la valoración realizada mediante la rúbrica de Escritura digital. Mientras esta última describe el desempeño observable durante la composición, la presente rúbrica analiza las estrategias cognitivas y metacognitivas que permiten planificar, supervisar, revisar y mejorar el proceso de escritura.
 
-En este nivel inicial, la autorregulación se manifiesta principalmente mediante la utilización progresivamente más consciente de los recursos disponibles, la supervisión básica de la propia actividad y la capacidad para responder de manera adaptativa ante pequeñas dificultades surgidas durante la composición digital.
+En la escritura digital, la autorregulación incluye además la gestión consciente de los recursos que ofrece el entorno tecnológico. La utilización estratégica de la interfaz **pinyin-hanzi**, la verificación de los caracteres seleccionados, la revisión durante la composición y la resolución autónoma de pequeñas dificultades constituyen manifestaciones observables de un proceso de composición progresivamente más autónomo y eficaz.
 
 | | A | B | C | D |
 |---|---|---|---|---|
