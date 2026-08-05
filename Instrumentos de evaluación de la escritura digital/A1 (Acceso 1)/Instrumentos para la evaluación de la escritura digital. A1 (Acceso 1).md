@@ -40,8 +40,6 @@ A diferencia de la escritura manuscrita, la escritura digital constituye una act
 
 ---
 
----
-
 # Instrumento 2. Rúbrica de análisis de la autorregulación
 
 ## Finalidad
@@ -59,7 +57,7 @@ El docente seleccionará el descriptor que mejor represente el desempeño observ
 
 La rúbrica de Autorregulación complementa la valoración realizada mediante la rúbrica del Proceso de escritura digital. Mientras esta última permite analizar el desempeño observable durante la composición, la presente rúbrica centra la atención en las estrategias cognitivas y metacognitivas que el alumnado utiliza para planificar, controlar y mejorar su propio proceso de escritura.
 
-En la escritura digital, la autorregulación no solo implica supervisar el contenido lingüístico, sino también gestionar de forma consciente los recursos tecnológicos que intervienen durante la composición. La selección de ayudas, la toma de decisiones ante distintas opciones de caracteres y la incorporación progresiva del feedback del propio sistema forman parte del aprendizaje estratégico de la escritura digital.
+En la escritura digital, la autorregulación no solo implica supervisar el contenido lingüístico, sino también gestionar de forma consciente los recursos tecnológicos que intervienen durante la composición. La selección de ayudas, la toma de decisiones ante distintas opciones de caracteres y la incorporación progresiva del *feedback* del propio sistema forman parte del aprendizaje estratégico de la escritura digital.
 
 | | A | B | C | D |
 |---|---|---|---|---|
@@ -76,7 +74,7 @@ En la escritura digital, la autorregulación no solo implica supervisar el conte
 
 Esta plantilla permite recoger de manera rápida y sistemática las evidencias observadas durante una actividad de escritura digital en chino como lengua extranjera.
 
-Su finalidad es facilitar el registro del desempeño del alumnado mediante la identificación del nivel alcanzado en cada indicador y la anotación de evidencias relevantes que permitan fundamentar la evaluación, interpretar las dificultades observadas y orientar procesos de feedback y feedforward.
+Su finalidad es facilitar el registro del desempeño del alumnado mediante la identificación del nivel alcanzado en cada indicador y la anotación de evidencias relevantes que permitan fundamentar la evaluación, interpretar las dificultades observadas y orientar procesos de  y feedforward.
 
 La plantilla puede utilizarse durante cualquier actividad de escritura digital realizada mediante ordenador, tableta o teléfono inteligente, tanto en contextos presenciales como virtuales. Permite registrar evidencias relacionadas con el proceso de composición, el uso de la interfaz *pinyin-hanzi* y las estrategias de autorregulación desarrolladas por el alumnado durante la tarea.
 
