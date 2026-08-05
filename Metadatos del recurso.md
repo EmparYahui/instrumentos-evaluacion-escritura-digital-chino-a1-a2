@@ -7,11 +7,14 @@
 | **Título** | Instrumentos para la evaluación de la escritura digital en chino como lengua extranjera (A1-A2 MCER) |
 | **Tipo de recurso** | Recurso Educativo Abierto (REA) |
 | **Autor** | Empar-Yahui Liu-Zhou |
+| **Afiliación** | Universitat de València; ESIC Business & Marketing School (Valencia) |
+| **ORCID** | https://orcid.org/0009-0002-1103-7565 |
 | **Versión** | 1.0 |
+| **Fecha de publicación** | 3 de agosto de 2026 |
 | **Idioma** | Español |
 | **Licencia** | Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) |
 | **Repositorio** | GitHub |
-| **DOI** | Se incorporará tras el depósito del recurso en Zenodo. |
+| **DOI** | https://doi.org/10.5281/zenodo.21807773 |
 
 ---
 
@@ -19,7 +22,7 @@
 
 Este recurso educativo abierto reúne un conjunto de instrumentos destinados a la evaluación de la escritura digital en chino como lengua extranjera en los niveles A1 y A2 del Marco Común Europeo de Referencia para las Lenguas (MCER).
 
-El recurso facilita la observación, el análisis y el registro sistemático del desempeño del alumnado durante procesos de escritura digital mediados por la interfaz pinyin-hanzi, integrando indicadores relacionados con la producción escrita digital, la selección de caracteres, la revisión del texto y la autorregulación de la escritura.
+El recurso facilita la observación, el análisis y el registro sistemático del desempeño del alumnado durante procesos de escritura digital mediados por la interfaz *pinyin-hanzi*. Los instrumentos permiten analizar tanto el producto final como el proceso de composición, incorporando indicadores relacionados con la planificación, la construcción del texto digital, la selección de caracteres, la revisión durante la escritura y la autorregulación del aprendizaje.
 
 Los instrumentos pueden emplearse tanto en procesos de evaluación formativa como sumativa y están concebidos para generar evidencias que fundamenten procesos de *feedback* y *feedforward* orientados a la mejora del aprendizaje.
 
@@ -62,7 +65,7 @@ Los instrumentos se corresponden con los niveles iniciales del MCER:
 
 # 6. Ámbito de aplicación
 
-El recurso ha sido diseñado para su utilización en contextos de enseñanza y aprendizaje del chino como lengua extranjera donde la producción escrita se desarrolla mediante dispositivos digitales y sistemas de entrada basados en pinyin.
+El recurso ha sido diseñado para su utilización en contextos de enseñanza y aprendizaje del chino como lengua extranjera donde la producción escrita se desarrolla mediante dispositivos digitales y sistemas de entrada basados en *pinyin*.
 
 Puede utilizarse en actividades de evaluación continua, evaluación final, observación sistemática del desempeño, análisis de producciones digitales y seguimiento individual del progreso del alumnado.
 
@@ -74,7 +77,8 @@ Los instrumentos permiten recoger evidencias relacionadas con:
 
 - escritura digital;
 - producción escrita digital;
-- selección de caracteres mediante la interfaz pinyin-hanzi;
+- planificación de la composición digital;
+- selección de caracteres mediante la interfaz *pinyin-hanzi*;
 - revisión de textos digitales;
 - autorregulación de la escritura;
 - competencia estratégica;
@@ -104,7 +108,7 @@ El diseño del recurso se fundamenta en:
 - la evaluación formativa;
 - la observación sistemática del desempeño;
 - la escritura digital en chino como lengua extranjera;
-- la autorregulación del aprendizaje durante la producción escrita digital.
+- la autorregulación del aprendizaje durante la composición digital.
 
 ---
 
@@ -113,7 +117,7 @@ El diseño del recurso se fundamenta en:
 La utilización del recurso permite:
 
 - identificar el nivel de desarrollo de la escritura digital del alumnado;
-- documentar evidencias del proceso de producción escrita digital;
+- documentar evidencias del proceso de composición digital;
 - fundamentar decisiones de evaluación;
 - orientar procesos de mejora mediante *feedback* y *feedforward*;
 - favorecer el desarrollo de estrategias de autorregulación durante la escritura digital.
@@ -122,13 +126,13 @@ La utilización del recurso permite:
 
 # 11. Palabras clave
 
-Escritura digital; chino como lengua extranjera; evaluación; rúbricas; MCER; CEFR; pinyin; hanzi; autorregulación; feedback; feedforward; competencia digital; recursos educativos abiertos; OER.
+Escritura digital; composición digital; chino como lengua extranjera; evaluación formativa; rúbricas; autorregulación; instrumentos de evaluación; evaluación de lenguas; MCER; CEFR; *pinyin*; *hanzi*; *feedback*; *feedforward*; competencia digital; recursos educativos abiertos; REA; Open Educational Resources; OER.
 
 ---
 
 # 12. Requisitos técnicos
 
-El recurso está disponible en formato Markdown (`.md`) y puede visualizarse directamente desde GitHub o descargarse para su utilización y adaptación en otros entornos compatibles con dicho formato.
+El recurso está disponible en formato Markdown (`.md`) y puede visualizarse directamente desde GitHub o descargarse para su utilización, adaptación y reutilización en cualquier entorno compatible con dicho formato.
 
 ---
 
@@ -136,12 +140,20 @@ El recurso está disponible en formato Markdown (`.md`) y puede visualizarse dir
 
 El recurso puede utilizarse como referencia metodológica para el diseño de instrumentos de evaluación de la escritura digital en otros niveles, lenguas o contextos educativos.
 
-Se recomienda mantener la coherencia entre objetivos, evidencias y criterios de evaluación, así como citar el recurso original cuando su estructura o planteamiento metodológico sirvan de referencia.
+Se recomienda mantener la coherencia entre objetivos, evidencias y criterios de evaluación, así como citar el recurso original cuando su estructura, sus rúbricas o su planteamiento metodológico sirvan de referencia.
 
-La reutilización del recurso está sujeta a las condiciones establecidas por la licencia CC BY-NC-SA 4.0.
+La reutilización del recurso está sujeta a las condiciones establecidas por la licencia **CC BY-NC-SA 4.0**.
 
 ---
 
 # 14. Forma recomendada de citación
 
-Liu-Zhou, E.-Y. (2026). *Instrumentos para la evaluación de la escritura digital en chino como lengua extranjera (A1-A2 MCER)* (Versión 1.0) [Recurso Educativo Abierto]. GitHub. DOI pendiente de asignación.
+Liu-Zhou, E.-Y. (2026). *Instrumentos para la evaluación de la escritura digital en chino como lengua extranjera (A1-A2 MCER)* (Versión 1.0) [Recurso Educativo Abierto]. Zenodo. https://doi.org/10.5281/zenodo.21807773
+
+---
+
+# 15. Historial de versiones
+
+| Versión | Fecha | Descripción |
+|---------|------|-------------|
+| **1.0** | 03/08/2026 | Primera versión pública del recurso. |
