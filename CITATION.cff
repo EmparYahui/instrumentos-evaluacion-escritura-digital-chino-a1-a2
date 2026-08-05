@@ -1,30 +1,67 @@
 cff-version: 1.2.0
+
 message: "Si utiliza este recurso, cite la siguiente referencia."
+
 title: "Instrumentos para la evaluación de la escritura digital en chino como lengua extranjera (A1-A2 MCER)"
+
 authors:
   - family-names: "Liu-Zhou"
     given-names: "Empar-Yahui"
+    affiliation: "Universitat de València; ESIC Business & Marketing School (Valencia)"
     orcid: "https://orcid.org/0009-0002-1103-7565"
+
 version: "1.0.0"
 date-released: "2026-08-03"
+
+doi: "10.5281/zenodo.21807773"
+url: "https://doi.org/10.5281/zenodo.21807773"
+
+repository-code: "https://github.com/EmparYahui/instrumentos-evaluacion-escritura-digital-chino-a1-a2"
+
 license: "CC-BY-NC-SA-4.0"
+
 abstract: >-
-  Recurso educativo abierto compuesto por rúbricas de evaluación,
+  Recurso educativo abierto compuesto por rúbricas analíticas,
   instrumentos de observación y orientaciones para la retroalimentación
   formativa de la escritura digital en chino como lengua extranjera
-  en niveles A1-A2 del Marco Común Europeo de Referencia para las Lenguas.
-  El recurso permite evaluar el proceso de composición digital mediante
-  la interfaz pinyin-hanzi, la planificación, la revisión, la
-  autorregulación y la producción de textos escritos en entornos digitales.
+  en los niveles A1-A2 del Marco Común Europeo de Referencia para las
+  Lenguas (MCER). El recurso permite evaluar el proceso de composición
+  digital mediante el uso de la interfaz pinyin-hanzi, la planificación,
+  la monitorización, la revisión, la autorregulación y la producción
+  de textos escritos en entornos digitales.
+
 keywords:
+  # Español
   - "escritura digital"
+  - "composición digital"
   - "chino como lengua extranjera"
   - "MCER"
   - "evaluación formativa"
   - "rúbricas"
   - "autorregulación"
+  - "instrumentos de evaluación"
+  - "evaluación de lenguas"
   - "pinyin"
   - "hanzi"
   - "feedback"
   - "feedforward"
   - "recursos educativos abiertos"
+  - "REA"
+
+  # English
+  - "digital writing"
+  - "digital composition"
+  - "Chinese as a foreign language"
+  - "CEFR"
+  - "formative assessment"
+  - "rubrics"
+  - "self-regulation"
+  - "assessment"
+  - "assessment instruments"
+  - "language assessment"
+  - "pinyin"
+  - "hanzi"
+  - "feedback"
+  - "feedforward"
+  - "Open Educational Resources"
+  - "OER"
