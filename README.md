@@ -1,6 +1,6 @@
 # Instrumentos para la evaluación de la escritura digital <br>en chino como lengua extranjera (A1-A2 MCER)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21807773.svg)](https://doi.org/10.5281/zenodo.21807773)
 
 ## Presentación
 
