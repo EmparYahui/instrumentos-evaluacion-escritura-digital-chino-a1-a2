@@ -1,14 +1,16 @@
 # Instrumentos para la evaluación de la escritura digital
 
+# Instrumentos para la evaluación de la escritura digital
+
 ## A1 MCER (Acceso 1)
 
-Estos instrumentos están diseñados para observar y valorar el desarrollo de la escritura digital en chino como lengua extranjera correspondiente al nivel **A1 (Acceso 1)** del MCER.
+Estos instrumentos están diseñados para observar y valorar el desarrollo de la escritura digital en chino como lengua extranjera correspondiente al nivel **A1 (Acceso 1)** del Marco Común Europeo de Referencia para las Lenguas (MCER).
 
-El conjunto incluye una rúbrica de análisis de la escritura digital, una rúbrica de análisis de la autorregulación, una plantilla de registro in situ y un conjunto de orientaciones para la interpretación de evidencias mediante procesos de *feedback* y *feedforward*. Su finalidad es facilitar la recogida sistemática de evidencias durante actividades de composición escrita realizadas mediante herramientas digitales.
+El conjunto incluye una rúbrica de análisis de la escritura digital, una rúbrica de análisis de la autorregulación, una plantilla de registro *in situ* y un conjunto de orientaciones para la interpretación de evidencias mediante procesos de *feedback* y *feedforward*. Su finalidad es facilitar la recogida sistemática de evidencias durante actividades de composición escrita realizadas mediante dispositivos digitales.
 
-La evaluación permite analizar tanto el producto final como el proceso de escritura, atendiendo a la utilización de **la interfaz pinyin-hanzi,** la selección de caracteres, la construcción progresiva del texto, la revisión durante la composición y las estrategias de autorregulación desarrolladas por el alumnado.
+A diferencia de la escritura manuscrita, la escritura digital incorpora procesos específicos asociados al uso de la interfaz **pinyin-hanzi**, la recuperación léxica, la selección de caracteres, la revisión durante la composición y la utilización estratégica de los recursos que ofrece el entorno digital. Por ello, la evaluación no se limita al producto final, sino que permite analizar el proceso de composición desarrollado por el alumnado.
 
-La valoración se realiza seleccionando el descriptor (A-D) que mejor representa el desempeño observado en cada indicador. Las evidencias recogidas permiten fundamentar la retroalimentación y orientar futuras actuaciones de aprendizaje.
+La valoración se realiza seleccionando el descriptor (A–D) que mejor representa el desempeño observado en cada indicador. Las evidencias recogidas permiten fundamentar la retroalimentación, orientar futuras actuaciones de aprendizaje y documentar la evolución progresiva de la competencia de escritura digital.
 
 ---
 
