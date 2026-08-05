@@ -1,6 +1,15 @@
 # Instrumentos para la evaluación de la escritura digital <br>en chino como lengua extranjera (A1-A2 MCER)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21807773.svg)](https://doi.org/10.5281/zenodo.21807773)
+[![GitHub release](https://img.shields.io/badge/version-v1.0-blue.svg)]()
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1103--7565-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1103-7565)
+[![Institution](https://img.shields.io/badge/Universitat%20de%20Val%C3%A8ncia-Research-orange.svg)]()
+[![ESIC](https://img.shields.io/badge/ESIC-Business%20%26%20Marketing%20School-red.svg)]()
+[![Language](https://img.shields.io/badge/language-español-red.svg)]()
+[![CEFR](https://img.shields.io/badge/MCER-A1--A2-success.svg)]()
+[![OER](https://img.shields.io/badge/Open-Educational%20Resource-0066CC.svg)]()
+
 
 ## Presentación
 
